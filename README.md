@@ -1,7 +1,7 @@
 ExtYqlApp
 =========
 
-An ExtJS MVC App With Example Connection/Query To YQL.
+A Simple Demonstration ExtJS MVC App With Example Connection/Query To YQL.
 
 <h4> App Layout </h4>
   <ul>
